@@ -1,0 +1,20 @@
+/*Pagination*/
+
+.filter-form {
+    padding: 10px;
+}
+
+.filter-item {
+    font-weight: bold;
+    color: black;
+    display: inline-block;
+    padding-right: 5px;
+    padding-top: 12px;
+}
+
+.sort-icon {
+    float: right;
+}
+
+
+/*end Pagination*/
