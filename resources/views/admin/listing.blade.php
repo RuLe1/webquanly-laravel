@@ -1,6 +1,5 @@
 @extends('layouts.admin')
 @section('content')
-<h1>hi</h1>
 <div class="">
     <div class="page-title">
         <h3><?=$title?></h3>
